@@ -1,0 +1,46 @@
+h1{
+    margin: 8vh;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: rgb(250, 249, 249);
+    box-shadow: 8px 8px 8px 0px rgb(56, 56, 56);
+    color: darkblue;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-items: center;
+    background-color: #e2e2e2;
+}
+.formulario input{
+    width: 40vh;
+    margin-top: 1vh;
+    height: 3vh;
+    margin-bottom: 3vh;
+    border-radius: 3px;
+    font-size: medium;
+    background-color: rgb(241, 241, 241);
+}
+button {
+    margin-bottom: 3vh;
+    margin-top: 2vh;
+    background-color: rgb(88, 119, 33);
+    color: aliceblue;
+    border-radius: 2px;
+    height: 4vh;
+    width: 9vh;
+}
+.formulario {
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10vh;
+    background-color: rgb(250, 249, 249);
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    box-shadow: 8px 8px 8px 0px rgb(56, 56, 56);
+}
+.senhaCadastro{
+    padding-top: 2vh;
+    border-top: 2px solid black;
+    margin: 0;
+}

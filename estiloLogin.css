@@ -1,0 +1,57 @@
+body {
+    background-color: #e2e2e2;
+}
+header {
+    justify-items: left ;
+    padding: 8vh;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10vh;
+    margin-left: 45vh;
+    margin-right: 0%;
+    height: 17vh;
+}
+.instituições-escolares {
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: darkblue;
+}
+main {
+    display: flex;
+    justify-content: right;
+    margin-right: 65vh;
+    margin-left: 0%;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 0px;
+}
+main input{
+    height: 4vh;
+    width: 40vh;
+    font-size: larger;
+    border-radius: 5px;
+    margin-top: 1vh;
+}
+main h2{
+    color: darkblue;
+}
+.Login button {
+    margin: 20px;
+}
+.senha {
+    margin-top: 15px;
+}
+.cadastro {
+    margin-top: 3vh;
+}
+img {
+    border-radius: 15%;
+}
+button{
+    background-color: rgb(88, 119, 33);
+    color: white;
+    height: 4vh;
+    width: 9vh;
+    border-radius: 4px;
+}
